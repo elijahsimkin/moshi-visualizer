@@ -1,0 +1,22 @@
+vtxid,txid,from,to,amount
+34,530,Tuition,IIT,1350.0
+35,531,Groceries,Trader Joes,50.0
+36,532,Groceries,Trader Joes,50.0
+37,533,Groceries,Target,50.0
+38,534,Groceries,Target,50.0
+39,535,Groceries,Trader Joes,50.0
+40,536,Groceries,Trader Joes,50.0
+41,537,Groceries,Target,50.0
+42,538,Groceries,Trader Joes,50.0
+43,539,Groceries,Target,50.0
+44,540,Groceries,Target,50.0
+45,541,Groceries,Trader Joes,50.0
+46,542,Groceries,Trader Joes,50.0
+47,543,Groceries,Trader Joes,50.0
+48,544,Free Cash,Nails R Us,90.0
+50,546,Lease,Lease,350.0
+51,547,Lease,Lease,350.0
+52,548,Lease,Lease,350.0
+53,549,Lease,Lease,350.0
+54,550,Rent,Houston,350.0
+55,551,Insurance,Geico,350.0

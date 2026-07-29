@@ -1,0 +1,36 @@
+vtxid,txid,from,to,amount
+0,500,AECOM,Lease,1400.0
+1,500,AECOM,Tuition,100.0
+2,502,AECOM,Tuition,1250.0
+3,502,AECOM,Groceries,250.0
+4,504,Dance,Rent,50.0
+5,505,Dance,Insurance,60.0
+6,506,Dance,Rent,50.0
+7,507,Dance,Insurance,60.0
+8,508,Dance,Rent,50.0
+9,509,Dance,Groceries,60.0
+10,510,Dance,Insurance,50.0
+11,511,Dance,Rent,60.0
+12,512,Dance,Groceries,50.0
+13,513,Dance,Insurance,50.0
+14,514,Dance,Groceries,60.0
+15,515,Dance,Rent,50.0
+16,516,Dance,Groceries,60.0
+17,517,Dance,Insurance,60.0
+18,518,Dance,Free Cash,50.0
+19,519,Dance,Rent,60.0
+20,520,Farm,Groceries,90.0
+21,520,Farm,Groceries,80.0
+22,520,Farm,Insurance,70.0
+23,520,Farm,Free Cash,40.0
+24,520,Farm,Rent,30.0
+25,520,Farm,Free Cash,40.0
+26,521,Farm,Free Cash,350.0
+27,522,Farm,Free Cash,350.0
+28,523,Farm,Free Cash,350.0
+29,524,Farm,Free Cash,350.0
+30,525,Farm,Free Cash,350.0
+31,526,Farm,Free Cash,350.0
+32,527,Farm,Free Cash,350.0
+33,528,Mom,Free Cash,200.0
+34,529,Target,Free Cash,150.0
